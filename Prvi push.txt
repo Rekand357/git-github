@@ -1,1 +1,2 @@
 Ovde se nalazi prvi push
+Da li je master ili je main
